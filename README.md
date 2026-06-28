@@ -1,4 +1,3 @@
-# Current-Emerging-Trends-in-CS-2026-
 CS-370-12753-M01 Current/Emerging Trends in CS 2026 C-3 (May - Jun)
 Pirate Intelligent Agent
 A deep Q-learning agent that learns to navigate an 8x8 maze and find treasure before a human player, built as part of SNHU's CS 370: Current/Emerging Trends in Computer Science.
